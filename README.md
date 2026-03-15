@@ -1,8 +1,9 @@
-
+![Architecture Diagram](images/image1.PNG)
 
 Project on building a Complete CI/CD Pipeline using Jenkins, ArgoCD, and Amazon EKS for a Three-Tier Application! 🚀🛠️
 
 Key Steps:
+
 1️⃣ Jenkins Setup:
 Installed Jenkins on an EC2 instance with Docker, AWS CLI, and kubectl for CI/CD operations. 🛠️
 
